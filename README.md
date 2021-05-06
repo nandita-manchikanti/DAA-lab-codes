@@ -135,5 +135,5 @@ Object Oriented Algorithm Design and Analysis Practice Lab course @IIITDM Kanche
 1. Coin change
 2. Fractional Knapsack 
 3. Scheduling
+4. Look at case studies given in geeksforgeek - implement any 5 with varying complexities.
 ```
-Look at case studies given in geeksforgeek - implement any 5 with varying complexities.
