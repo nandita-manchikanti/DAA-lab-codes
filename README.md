@@ -4,7 +4,7 @@ Object Oriented Algorithm Design and Analysis Practice Lab course @IIITDM Kanche
 ## Lab 1
  ``` 
 1.Given an integer array, present three different logic to find MAXIMUM in an array (Do NOT use SORTING in any of the logic).
-` For each logic, count the number of comparisons incurred to return MAX
+  For each logic, count the number of comparisons incurred to return MAX
 
 2.Given an integer array, present a logic to output an element which is neither maximum nor minimum. 
   Here again, avoid sorting the entire array.
